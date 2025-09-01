@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 venv/
 anaconda_projects/
+.ipynb_checkpoints/
 .env
 __pycache__/
 *.pyc
