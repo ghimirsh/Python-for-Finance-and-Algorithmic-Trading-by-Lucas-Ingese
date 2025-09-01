@@ -1,4 +1,5 @@
 venv/
+anaconda_projects/
 .env
 __pycache__/
 *.pyc
